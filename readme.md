@@ -1,3 +1,6 @@
+# install graph cli
+```https://github.com/graphprotocol/graph-cli#installation```
+
 # init
 ```graph init```
 
